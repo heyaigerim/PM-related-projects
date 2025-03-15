@@ -1,6 +1,7 @@
 # Venmo Financial Insights Dashboard  
-INFO 290: Lean/Agile Product Management
-Collaborators: Aigerim Kurmanbekova, Aratrik Paul, Anjana Shekhar, Cynthia Wen
+## INFO 290: Lean/Agile Product Management
+## UC Berkeley, 2024
+## Collaborators: Aigerim Kurmanbekova, Aratrik Paul, Anjana Shekhar, Cynthia Wen
 
 ## Overview  
 The **Venmo Financial Insights Dashboard** is a feature concept designed to help users track spending, manage budgets, and gain financial insights—all within the Venmo app. This project was developed as part of a **Product Management case study**, incorporating user research, competitive analysis, and strategic planning.  
@@ -25,7 +26,7 @@ The goal was to improve **financial awareness and decision-making** for Venmo us
 2️⃣ **Enhancements:** Customizable budgets, improved notifications, deeper analytics.  
 3️⃣ **Expansion:** Integration with external accounts, predictive analytics, and premium insights.  
 
-## 📂 Project Deliverables  
+## Project Deliverables  
 🔹 Stakeholder Pre-read
 🔹 Presentation with key findings
 

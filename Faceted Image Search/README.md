@@ -20,18 +20,18 @@ Apply product thinking by optimizing navigation for target users.
 
 ## Features
 
-✅ **Faceted Search**: Users can navigate images using structured facets such as:
+ **Faceted Search**: Users can navigate images using structured facets such as:
    - **Meal Type**: Breakfast, Lunch, Dinner  
 
-✅ **Hierarchical Metadata**: Three-level categorization for refined search results.  
+**Hierarchical Metadata**: Three-level categorization for refined search results.  
 
-✅ **JSON Metadata Format**: Organized dataset for easy scalability and search integration.  
+**JSON Metadata Format**: Organized dataset for easy scalability and search integration.  
 
-✅ **Algolia Integration**: Hosted search interface powered by Algolia for fast, user-friendly searching.  
+**Algolia Integration**: Hosted search interface powered by Algolia for fast, user-friendly searching.  
 
 ## Project Structure
 
-📦 faceted-image-search │-- 📜 README.md # Project Documentation 
+faceted-image-search │-- README.md # Project Documentation 
 │ │-- food_metadata.json # JSON file with categorized food images
 │ │-- summary.txt/ # Summary with the link to the Algolia interface 
 
