@@ -1,0 +1,22 @@
+Faceted Image Search: Food Photography Collection
+
+Link to our Algolia Interface: https://dashboard.algolia.com/interface-demos/34262be7-906a-4e6e-908e-2d00c9e43f47?utm_medium=page_link&utm_source=dashboard
+
+Goal & Theme
+- I'm a foodie and was interested in building an interface to help other foodies find fun food ideas! 
+- Looking to get people excited about new dishes, I focused on picking appealing visuals: all of the different meals. 
+- I also wanted to cover a wide range of foods meant to be eaten on different occasions and mealtimes with the purpose of 
+making sure that anyone using our interface would be able to find a meal relevant to them. 
+
+My collection of appealing and well-shot photos is also great for food writers or anyone who needs stock images of tasty-looking food.
+
+Faceted Category Choice & Structure
+Looking to help fellow food lovers bring new dishes into their lives, I understood that people would naturally contextualize our food options in appropriate mealtimes.
+When foodies in my group look for new foods, they do so with the meal time in mind as some foods may be most appropriate for different times of the day. 
+With this insight, I realized that Breakfast, Lunch, and Dinner are not just useful categories, they also reflect the mental model of our most common use case.
+To help foodies find the perfect meal option, I added narrower levels of classification, such as “light meals” or “sweet breakfasts”. I wrote this level of classification in terms of taste and feel to reflect our use case. 
+When food lovers sift through potential meals, they naturally imagine what it would be like to smell and eat the meal in the picture. My category of “sweet breakfast” or “comfort foods” for example, reflects this natural tendency and helps food lovers engage with our search engine while on their adventure of smells and tastes. 
+Meanwhile, more technical categories on this level like “main course” are meant for our food writer friends and stock image hunter-gatherers.     
+While the previous level was about “sweet breakfasts”, my finest level of categorization will list “specific meal items” like “pancakes” and “waffles”. This level is made for foodies who are honing in on exactly what they’ll be eating next. 
+Perhaps they saw an appetizing pancake in one of the images and realized they were craving pancakes this whole time. This level of categorization allows this person to view all the pancake options at once. 
+In all, I have created a robust categorization system that reflects the natural process of finding new foods. Any foodie looking through our interface looking for a new food option should be able to find a meal that interests their appetite and tastes! 
