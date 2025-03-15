@@ -33,6 +33,8 @@ This portfolio showcases some of my projects, covering areas like AI-powered sea
 **Key Focus:** AI chatbot architecture, API interactions, user command parsing  
 **[Project Details](https://github.com/heyaigerim/my-projects/tree/main/Stateless%20Flask%20Server)**  
 
+### and others (to be added)...
+
 ---
 
 ## **Key Takeaways Across Projects**  
