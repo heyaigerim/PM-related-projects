@@ -1,11 +1,11 @@
 # 🍽️ **Faceted Image Search: Food Photography Collection**  
 
-### 🔗 **Link to our Algolia Interface:**  
+### 🔗 **Link to Algolia Interface:**  
 [Algolia Search Demo](https://dashboard.algolia.com/interface-demos/34262be7-906a-4e6e-908e-2d00c9e43f47?utm_medium=page_link&utm_source=dashboard)  
 
 ---
 
-## 🎯 **Goal & Theme**  
+## **Goal & Theme**  
 - As a **foodie**, I wanted to build an interface that helps fellow food lovers **discover exciting new dishes**!  
 - My focus was on **visually appealing meals**, ensuring the images are both **enticing and high-quality**.  
 - The collection showcases a **wide range of foods**, covering various occasions and mealtimes, making sure that **everyone can find a meal relevant to them**.  
@@ -14,7 +14,7 @@ This collection is also perfect for **food writers and stock image seekers**, pr
 
 ---
 
-## 🏷️ **Faceted Category Choice & Structure**  
+## **Faceted Category Choice & Structure**  
 To help fellow food lovers explore **new dishes**, I structured my categories around **natural meal contexts**.  
 
 ### **1️⃣ Meal-Based Categorization**  
@@ -39,10 +39,10 @@ For example, a foodie browsing the collection might **see an appetizing pancake 
 
 ---
 
-## ✅ **Final Thoughts**  
+## **Final Thoughts**  
 I designed this categorization system to **reflect the way people naturally explore new foods**.  
 
 With **intuitive meal-based filtering, sensory-driven classifications, and detailed item categories**, this search experience makes **finding the perfect dish effortless and enjoyable**.  
 
-🚀 Whether you're a **food lover, blogger, chef, or content creator**, our faceted image search will help you discover **the next delicious inspiration!** 🍽️ 🔍
+Whether you're a **food lover, blogger, chef, or content creator**, this faceted image search will help you discover **the next delicious inspiration!** 🍽️ 🔍
 
