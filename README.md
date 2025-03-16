@@ -1,7 +1,7 @@
-# **Aigerim Kurmanbekova - Projects**  
+# **Aigerim Kurmanbekova
 
 ## **Hi, I'm Aigerim!**  
-I'm a graduate student at UC Berkeley, specializing in **Product Management, Data Analytics, AI, and Information Systems**. My passion lies at the intersection of technology, strategy, and user experience - I love solving problems, designing intuitive digital products, and exploring how AI can enhance decision-making.  
+I'm a graduate student at UC Berkeley, specializing in **Product Management, Data Analytics and AI**. My passion lies at the intersection of technology, strategy, and user experience - I love solving problems, designing intuitive digital products, and exploring how AI can enhance decision-making.  
 
 This portfolio showcases some of my projects, covering areas like AI-powered search, financial insights, metadata systems, and backend development. Whether it's building intelligent retrieval systems, crafting seamless user experiences, or optimizing data-driven decisions, I’m always excited about creating impactful solutions!  
 
@@ -36,10 +36,12 @@ This portfolio showcases some of my projects, covering areas like AI-powered sea
 ---
 
 ## **Key Takeaways Across Projects**  
-✔ **User-Centric Thinking:** Every project prioritizes **user experience**, whether through **search optimization, financial insights, or chatbot design**.  
-✔ **Scalability & Performance:** Focus on **scalable architectures**, from **AI-powered search** to **high-performance APIs**.  
-✔ **Cross-Disciplinary Approach:** Combining **Product Management, AI, and UX** to develop **well-rounded digital experiences**.  
-✔ **Strategic Innovation:** Leveraging **emerging technologies** like **RAG, NLP, and faceted search** to solve **real-world problems**.  
+- **User-Centric Thinking:** Every project prioritizes **user experience**, whether through **search optimization, financial insights, or chatbot design**.  
+- **Scalability & Performance:** Focus on **scalable architectures**, from **AI-powered search** to **high-performance APIs**.  
+- **Cross-Disciplinary Approach:** Combining **Product Management, AI, and UX** to develop **well-rounded digital experiences**.  
+- **Strategic Innovation:** Leveraging **emerging technologies** like **RAG, NLP, and faceted search** to solve **real-world problems**.  
+
+And others...
 
 ---
 

@@ -1,39 +1,37 @@
-# 🍽️ **Faceted Image Search: Food Photography Collection**  
-
-## INFO 202: Information Organization and Retrieval  
+# **Faceted Image Search: Food Photography Collection**   
 ## UC Berkeley, 2024  
 
 ---
 
-## 📌 **Overview**  
-This project demonstrates the application of **faceted search and metadata design** in a food photography collection.  
+## **Overview**  
+This project showcases the design and implementation of faceted search and metadata-driven navigation for a food photography collection.
 
-The system enables users to intuitively browse and search for food images categorized by **meal type, cuisine, and dietary preference** using **Algolia's faceted search**.  
+The system enables users to efficiently browse, search, and filter food images based on meal type, cuisine, and dietary preference using Algolia’s faceted search. The project demonstrates how structured metadata enhances searchability and improves user experience. 
 
 ---
 
-## 🎯 **Project Goal**  
+## **Project Goal**  
 The goal of this project is to create a structured **image search experience** optimized for **food lovers, bloggers, chefs, and marketers**.  
 By implementing a **hierarchical faceted classification**, users can explore food images with **multiple levels of categorization**.  
 
-### 🔍 **Why This Matters for Product Management**  
-✔ **Design user-friendly search experiences** using metadata and taxonomy.  
-✔ **Structure large datasets** into logical hierarchies for better UX.  
-✔ **Work with Algolia and JSON data** for scalable search solutions.  
-✔ **Apply product thinking** by optimizing navigation for target users.  
+### **Why This Matters for Product Management**  
+- **Design user-friendly search experiences** using metadata and taxonomy.  
+- **Structure large datasets** into logical hierarchies for better UX.  
+- **Work with Algolia and JSON data** for scalable search solutions.  
+- **Apply product thinking** by optimizing navigation for target users.  
 
 ---
 
-## 🔑 **Features**  
-✔ **Faceted Search**: Users can navigate images using structured facets such as:  
+## **Features**  
+- **Faceted Search**: Users can navigate images using structured facets such as:  
    - **Meal Type**: Breakfast, Lunch, Dinner  
-✔ **Hierarchical Metadata**: Three-level categorization for refined search results.  
-✔ **JSON Metadata Format**: Organized dataset for easy scalability and search integration.  
-✔ **Algolia Integration**: Hosted search interface powered by **Algolia** for fast, user-friendly searching.  
+- **Hierarchical Metadata**: Three-level categorization for refined search results.  
+- **JSON Metadata Format**: Organized dataset for easy scalability and search integration.  
+- **Algolia Integration**: Hosted search interface powered by **Algolia** for fast, user-friendly searching.  
 
 ---
 
-## 📂 **Project Structure**  
+## **Project Structure**  
 ```
 faceted-image-search
 │-- README.md              # Project Documentation
@@ -43,20 +41,20 @@ faceted-image-search
 
 ---
 
-## ⚙️ **How to Run**  
+## **How to Run**  
 
-### 1️⃣ **Clone the Repository**  
+### 1️ **Clone the Repository**  
 ```sh
-$ git clone https://github.com/yourusername/faceted-image-search.git
+$ git clone https://github.com/heyaigerim/my-projects/tree/main/Faceted%20Image%20Search
 $ cd faceted-image-search
 ```
 
-### 2️⃣ **Set up Algolia**  
-✔ **Sign up** at [Algolia](https://www.algolia.com)  
-✔ **Create an index** and upload `data/food_metadata.json`  
-✔ **Configure searchable facets** for filtering  
+### 2️ **Set up Algolia**  
+1. **Sign up** at [Algolia](https://www.algolia.com)  
+2. **Create an index** and upload `data/food_metadata.json`  
+3. **Configure searchable facets** for filtering  
 
-### 3️⃣ **Launch the Search Interface**  
+### 3️ **Launch the Search Interface**  
 ✔ Open `src/search_interface.html` in your browser.  
 
 ---
@@ -83,5 +81,11 @@ $ cd faceted-image-search
   }
 }
 ```
-
+## **Future Enhancements
+This project lays the foundation for a scalable and user-friendly search experience. Future iterations could include:
+- Personalized recommendations based on user interactions.
+- Advanced filtering options such as ingredient-based searches.
+- Integration with external APIs for dynamic food photography datasets.
+- AI-powered tagging to enhance metadata enrichment.
+- This project not only demonstrates technical execution but also product-driven decision-making in creating an optimized search experience for diverse user needs.
 

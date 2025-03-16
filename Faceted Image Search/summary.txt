@@ -1,48 +1,40 @@
-# 🍽️ **Faceted Image Search: Food Photography Collection**  
+Faceted Image Search: Food Photography Collection
 
-### 🔗 **Link to Algolia Interface:**  
-[Algolia Search Demo](https://dashboard.algolia.com/interface-demos/34262be7-906a-4e6e-908e-2d00c9e43f47?utm_medium=page_link&utm_source=dashboard)  
+Link to Algolia Interface: https://dashboard.algolia.com/interface-demos/34262be7-906a-4e6e-908e-2d00c9e43f47?utm_medium=page_link&utm_source=dashboard
 
----
 
-## **Goal & Theme**  
-- As a **foodie**, I wanted to build an interface that helps fellow food lovers **discover exciting new dishes**!  
-- My focus was on **visually appealing meals**, ensuring the images are both **enticing and high-quality**.  
-- The collection showcases a **wide range of foods**, covering various occasions and mealtimes, making sure that **everyone can find a meal relevant to them**.  
+Goal & Theme
+As a food enthusiast, I wanted to build an interface that helps others discover exciting new dishes.
+My focus was on visually appealing meals, ensuring the images are both enticing and high-quality.
+The collection showcases a wide range of foods for various occasions and mealtimes, making it easy for everyone to find a relevant meal.
+This collection is also ideal for food writers and stock image seekers, providing a curated selection of high-quality food photography.
 
-This collection is also perfect for **food writers and stock image seekers**, providing a **curated selection of beautifully shot food photography**.  
+Faceted Category Choice & Structure
+To help users explore new dishes, I structured the categories around natural meal contexts.
 
----
+Meal-Based Categorization
+- People often associate foods with specific mealtimes.
+- Breakfast, lunch, and dinner serve as top-level categories, aligning with the way users typically search for meals.
 
-## **Faceted Category Choice & Structure**  
-To help fellow food lovers explore **new dishes**, I structured my categories around **natural meal contexts**.  
+Taste & Experience-Based Categorization
+To enhance engagement, subcategories reflect taste, feel, and purpose:
+- Light meals vs. hearty dishes
+- Sweet breakfasts vs. savory breakfasts
+- Comfort foods for nostalgic cravings
 
-### **1️⃣ Meal-Based Categorization**  
-- People naturally associate foods with **specific mealtimes**.  
-- **Breakfast, Lunch, and Dinner** serve as top-level categories, aligning with the way users typically search for meals.  
+Specific Meal Item Categorization
+For users refining their choices, the final level includes specific meal items such as:
+- Pancakes
+- Waffles
+- Ramen
 
-### **2️⃣ Taste & Experience-Based Categorization**  
-- To enhance engagement, I introduced **subcategories** reflecting taste, feel, and purpose:  
-  - **Light Meals** vs. **Hearty Dishes**  
-  - **Sweet Breakfasts** vs. **Savory Breakfasts**  
-  - **Comfort Foods** for warm, nostalgic cravings  
+This structure mirrors the natural food discovery process—users start broad and refine their search based on cravings and taste preferences.
 
-### **3️⃣ Specific Meal Item Categorization**  
-- For users refining their choices, the final level includes **specific meal items** such as:  
-  - 🥞 **Pancakes**  
-  - 🧇 **Waffles**  
-  - 🍜 **Ramen**  
-  
-This structure **mirrors the natural food discovery process**—users start broad, then refine based on **personal cravings and taste preferences**.  
+For example, a user browsing the collection might see an appetizing pancake image and realize they've been craving pancakes. This level of categorization allows them to view all pancake options at once.
 
-For example, a foodie browsing the collection might **see an appetizing pancake image** and suddenly realize they've been craving pancakes all along! This level of categorization lets them **view all pancake options at once**.  
+Final Thoughts
+This categorization system reflects the way people naturally explore new foods.
 
----
+With intuitive meal-based filtering, sensory-driven classifications, and detailed item categories, this search experience makes finding the perfect dish effortless and enjoyable.
 
-## **Final Thoughts**  
-I designed this categorization system to **reflect the way people naturally explore new foods**.  
-
-With **intuitive meal-based filtering, sensory-driven classifications, and detailed item categories**, this search experience makes **finding the perfect dish effortless and enjoyable**.  
-
-Whether you're a **food lover, blogger, chef, or content creator**, this faceted image search will help you discover **the next delicious inspiration!** 🍽️ 🔍
-
+Whether you're a food lover, blogger, chef, or content creator, this faceted image search will help you discover your next delicious inspiration.
