@@ -1,4 +1,4 @@
-# **Aigerim Kurmanbekova
+# Aigerim Kurmanbekova
 
 ## **Hi, I'm Aigerim!**  
 I'm a graduate student at UC Berkeley, specializing in **Product Management, Data Analytics and AI**. My passion lies at the intersection of technology, strategy, and user experience - I love solving problems, designing intuitive digital products, and exploring how AI can enhance decision-making.  
@@ -33,7 +33,7 @@ This portfolio showcases some of my projects, covering areas like AI-powered sea
 **Key Focus:** AI chatbot architecture, API interactions, user command parsing  
 **[Project Details](https://github.com/heyaigerim/my-projects/tree/main/Stateless%20Flask%20Server)**  
 
-### and others (to be added)...
+### and others...
 
 ---
 
@@ -42,8 +42,6 @@ This portfolio showcases some of my projects, covering areas like AI-powered sea
 - **Scalability & Performance:** Focus on **scalable architectures**, from **AI-powered search** to **high-performance APIs**.  
 - **Cross-Disciplinary Approach:** Combining **Product Management, AI, and UX** to develop **well-rounded digital experiences**.  
 - **Strategic Innovation:** Leveraging **emerging technologies** like **RAG, NLP, and faceted search** to solve **real-world problems**.  
-
-And others...
 
 ---
 

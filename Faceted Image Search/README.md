@@ -59,7 +59,7 @@ $ cd faceted-image-search
 
 ---
 
-## 📄 **JSON Metadata Example**  
+## **JSON Metadata Example**  
 ```json
 {
   "image_url": "https://unsplash.com/photos/croissant-on-top-of-stainless-steel-tray-lE5O9DktAQY",
@@ -81,7 +81,7 @@ $ cd faceted-image-search
   }
 }
 ```
-## **Future Enhancements
+## Future Enhancements
 This project lays the foundation for a scalable and user-friendly search experience. Future iterations could include:
 - Personalized recommendations based on user interactions.
 - Advanced filtering options such as ingredient-based searches.

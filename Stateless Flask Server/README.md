@@ -120,5 +120,5 @@ $ python3 terminal_chatbot.py http://localhost:5003
 
 ---
 
-## 📜 License  
+## License  
 This project is open-source and available under the **MIT License**.
