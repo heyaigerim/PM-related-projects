@@ -1,8 +1,5 @@
 # Venmo Financial Insights Dashboard  
-## UC Berkeley, 2024  
-
 ### Collaborators: Aigerim Kurmanbekova, Aratrik Paul, Anjana Shekhar, Cynthia Wen  
-
 ---
 
 ## Overview  
@@ -49,4 +46,4 @@ These documents provide a **detailed breakdown of the product vision, research i
 
 ---
 
-**Enhancing financial awareness for Venmo users, one insight at a time!** 🚀
+**Enhancing financial awareness for Venmo users, one insight at a time!** 

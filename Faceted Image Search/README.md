@@ -1,6 +1,4 @@
 # **Faceted Image Search: Food Photography Collection**   
-## UC Berkeley, 2024  
-
 ---
 
 ## **Overview**  

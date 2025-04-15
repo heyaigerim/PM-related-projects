@@ -1,6 +1,4 @@
 # **Retrieval-Augmented Generation (RAG) for AI-Powered Search**  
-## UC Berkeley, 2025  
-
 ---
 
 ## **Project Overview**  
