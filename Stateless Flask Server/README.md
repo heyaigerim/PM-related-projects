@@ -1,14 +1,19 @@
 # Chatbot Server with Terminal Interface
 ---
 ## Stateless Flask Server | Command Parsing | APIs & Data Processing  
+
 ---
 ## Overview  
+
 This project is a **stateless Flask-based chatbot server** that parses user messages and processes commands in a structured format. It connects with a Terminal-based chat interface (**TerminalChat**), handling various user inputs and returning formatted responses.
+
 ---
+
 ## Why It’s Interesting:
 - **Problem-Solving Approach:** Demonstrates user interaction handling & structured command processing.  
 - **Technical Understanding:** API-driven chat experience, message parsing, and structured response handling.  
 - **End-to-End Execution:** Covers architecture, API design, and integration with an existing chat interface.
+
 ---
 
 ## Why This Project Matters for Product Management  
@@ -16,7 +21,9 @@ This project is a **stateless Flask-based chatbot server** that parses user mess
 - **API-Driven Workflow:** Demonstrates knowledge of backend communication & product APIs.  
 - **Scalability Considerations:** Stateless architecture allows easy deployment & scaling.  
 - **Data-Driven Decisions:** Could extend into AI/NLP-based interactions.
+
 ---
+
 ## Key Features  
 ### 1. Stateless Flask API  
 - Receives user messages via **POST /chat**.  
