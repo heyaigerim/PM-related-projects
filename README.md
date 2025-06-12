@@ -15,12 +15,6 @@ This folder showcases some of my projects, covering areas like AI-powered search
 
 ## **Project Index**  
 
-### **Retrieval-Augmented Generation (RAG) for AI-Powered Search**  
-**Description:** Built an AI-driven **knowledge retrieval system** using **RAG**, improving **search relevance** and **AI-powered knowledge discovery**.  
-**Technologies:** Sentence Transformers, Vector Embeddings, Python 
-**Key Focus:** AI search optimization, embedding-based retrieval, cosine similarity ranking  
-**[Project Details](https://github.com/heyaigerim/my-projects/tree/main/RAG_AI_Search_Project)**  
-
 ### **Venmo Financial Insights Dashboard**  
 **Description:** Designed a **financial insights feature** for **Venmo**, allowing users to **track spending, manage budgets, and gain insights** within the app.  
 **Technologies:** Figma, Data Visualization, Prototype and Usability Testing, Product Strategy.
@@ -38,6 +32,13 @@ This folder showcases some of my projects, covering areas like AI-powered search
 **Technologies:** Flask, Python, TerminalChat, API Design  
 **Key Focus:** AI chatbot architecture, API interactions, user command parsing  
 **[Project Details](https://github.com/heyaigerim/my-projects/tree/main/Stateless%20Flask%20Server)**  
+
+### **Product Management in the Era of Generative AI**  
+**Description:** Authored an in-depth **research paper on GenAI’s impact on product management**, exploring new PM responsibilities, AI-native vs AI-enhanced strategies, and real-world case studies (Notion AI, GitHub Copilot, Duolingo Max).  
+**Technologies:** GPT-4, RAG architecture, prompt engineering (conceptual), product strategy  
+**Key Focus:** Human-AI interaction design, AI risk management, LLM constraints, PM skill evolution  
+**[Project Details](https://github.com/heyaigerim/pm-genai-whitepaper)**  
+
 
 ### and others...
 
