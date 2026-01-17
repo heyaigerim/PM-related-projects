@@ -9,8 +9,8 @@ The system enables users to efficiently browse, search, and filter food images b
 ---
 
 ## **Project Goal**  
-The goal of this project is to create a structured **image search experience** optimized for **food lovers, bloggers, chefs, and marketers**.  
-By implementing a **hierarchical faceted classification**, users can explore food images with **multiple levels of categorization**.  
+The goal of this project is to create a structured image search experience optimized for food lovers, bloggers, chefs, and marketers.  
+By implementing a hierarchical faceted classification, users can explore food images with multiple levels of categorization.  
 
 ### **Why This Matters for Product Management**  
 - **Design user-friendly search experiences** using metadata and taxonomy.  

@@ -3,14 +3,14 @@
 ---
 
 ## Overview  
-The **Venmo Financial Insights Dashboard** is a feature concept designed to help users **track spending, manage budgets, and gain financial insights**—all within the Venmo app.  
+The Venmo Financial Insights Dashboard is a feature concept designed to help users rack spending, manage budgets, and gain financial insights—all within the Venmo app.  
 
-This project was developed as part of a **Product Management case study**, incorporating:  
-- **User Research**  
-- **Competitive Analysis**  
-- **Strategic Planning**  
+This project was developed as part of a Product Management case study, incorporating:  
+- User Research  
+- Competitive Analysis
+- Strategic Planning
 
-The goal was to improve **financial awareness and decision-making** for Venmo users by providing **intuitive, data-driven insights** without requiring third-party apps.  
+The goal was to improve financial awareness and decision-making for Venmo users by providing intuitive, data-driven insights without requiring third-party apps.  
 
 ---
 
@@ -42,8 +42,4 @@ The goal was to improve **financial awareness and decision-making** for Venmo us
 1. **Stakeholder Pre-read**  
 2. **Presentation with Key Findings**  
 
-These documents provide a **detailed breakdown of the product vision, research insights, strategic recommendations, and implementation roadmap**.  
-
----
-
-**Enhancing financial awareness for Venmo users, one insight at a time!** 
+These documents provide a detailed breakdown of the product vision, research insights, strategic recommendations, and implementation roadmap.  

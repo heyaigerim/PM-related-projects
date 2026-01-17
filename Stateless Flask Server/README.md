@@ -5,7 +5,7 @@
 ---
 ## Overview  
 
-This project is a **stateless Flask-based chatbot server** that parses user messages and processes commands in a structured format. It connects with a Terminal-based chat interface (**TerminalChat**), handling various user inputs and returning formatted responses.
+This project is a stateless Flask-based chatbot server that parses user messages and processes commands in a structured format. It connects with a Terminal-based chat interface (**TerminalChat**), handling various user inputs and returning formatted responses.
 
 ---
 
